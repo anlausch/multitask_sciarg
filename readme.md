@@ -14,6 +14,10 @@ Exponential growth in the number of scientific publications yields the need for 
 ## Data and Annotation Guidelines
 - Data: http://data.dws.informatik.uni-mannheim.de/sci-arg/compiled_corpus.zip
 - Annotation Guidelines: http://data.dws.informatik.uni-mannheim.de/sci-arg/annotation_guidelines.pdf
+
+## Other
+The code for the analysis of the corpus is located here: https://github.com/anlausch/sciarg_resource_analysis
+
 ## Citation
 ```
 @inproceedings{lauscher-etal-2018-investigating,

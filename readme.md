@@ -11,6 +11,9 @@ Exponential growth in the number of scientific publications yields the need for 
 - ./load_conll.py: loader for the data which can be found at http://data.dws.informatik.uni-mannheim.de/sci-arg/compiled_corpus.zip
 - ./utils.py: util functions
 
+## Data and Annotation Guidelines
+- Data: http://data.dws.informatik.uni-mannheim.de/sci-arg/compiled_corpus.zip
+- Annotation Guidelines: http://data.dws.informatik.uni-mannheim.de/sci-arg/annotation_guidelines.pdf
 ## Citation
 ```
 @inproceedings{lauscher-etal-2018-investigating,
